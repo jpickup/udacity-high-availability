@@ -1,0 +1,15 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Udagram"
+	},
+	{
+		"ParameterKey": "ServerInstanceProfileRole",
+		"ParameterValue": "UdagramS3ReadOnly"
+
+	},
+	{
+		"ParameterKey": "S3Bucket",
+		"ParameterValue": "887331091535-udagram-s3-bucket"
+	}
+]
